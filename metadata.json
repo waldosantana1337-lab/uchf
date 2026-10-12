@@ -1,0 +1,12 @@
+{
+  "name": "YouChef",
+  "description": "A smart cooking app that transforms what's in your fridge into tasty meals- whether you're after something quick, healthy, indulgent or creative, it tailors recipes to what you already have at home.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

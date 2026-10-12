@@ -1,0 +1,362 @@
+[
+  {
+    "path": ".env.example",
+    "size": 1582,
+    "sha256": "bf210cbb16af7d1417738565c9db44b1e5da549d38c91af49009455c503cb679"
+  },
+  {
+    "path": ".gitignore",
+    "size": 253,
+    "sha256": "fe718e7babb14f3cbad2d97f08889b9ce5215ed3fe0e43b2b8cfbfb3b9b844e8"
+  },
+  {
+    "path": "App.tsx",
+    "size": 5641,
+    "sha256": "5547bbb053268d5af992f79cd7602eb494c4a5a679b46c81b97af35d001bc6c8"
+  },
+  {
+    "path": "bun.lock",
+    "size": 68619,
+    "sha256": "f4dc9a4587af7960e528f3838b47b52a87009aab83d59faee52243e3f3fb7c09"
+  },
+  {
+    "path": "components/AuthModal.tsx",
+    "size": 4843,
+    "sha256": "713df71a706de040d802cda02a67f65bd7eb808918b32b2e83303626efd42328"
+  },
+  {
+    "path": "components/Badges.tsx",
+    "size": 1544,
+    "sha256": "e5db534340ddbe121381aba26110593b4745eca7545b0ccc5644ad770bcb11c7"
+  },
+  {
+    "path": "components/CookingModePage.tsx",
+    "size": 6832,
+    "sha256": "3f8b4a5660c323fe26d2ec7df6b1756e8af7d30ccce50ae42b0004f91e85da25"
+  },
+  {
+    "path": "components/DailyTip.tsx",
+    "size": 1544,
+    "sha256": "4de9adc87d00738adae90a309b016ab0289c374157337be8bce70b164f6d2362"
+  },
+  {
+    "path": "components/Dashboard.tsx",
+    "size": 12494,
+    "sha256": "c35806e05c9156569edf8e0991534de8a48b0eb2760be114e976bab31dcd0be0"
+  },
+  {
+    "path": "components/EditProfileModal.tsx",
+    "size": 2865,
+    "sha256": "15e056cd210d621e86b216e68b9f3bbbdd708fa784f65b05b57cba510fdbdf3a"
+  },
+  {
+    "path": "components/ErrorBoundary.tsx",
+    "size": 2624,
+    "sha256": "80287ef7c1eac282279da5c93718a753149bef4799d4acba14b5fced492521e9"
+  },
+  {
+    "path": "components/Footer.tsx",
+    "size": 2090,
+    "sha256": "1ebcc2e4e6c2af34c047ac9feb469cdf649a7ac4b1ab63854a150ede24270cf2"
+  },
+  {
+    "path": "components/FridgeMode.tsx",
+    "size": 11230,
+    "sha256": "2d6ba61681778c7213571e90448f7daa32bc0fe3a0bddc65b4bbbb3292ea709f"
+  },
+  {
+    "path": "components/GroceryFinder.tsx",
+    "size": 9593,
+    "sha256": "36130be913c3018064d1323e2be7fe4f50c5bd2cf958797c9503bc89258d00ce"
+  },
+  {
+    "path": "components/Header.tsx",
+    "size": 11818,
+    "sha256": "542b2b719201aa7cb9692e497acfa087ea31da3aa1609be19864943923220a54"
+  },
+  {
+    "path": "components/IngredientInput.tsx",
+    "size": 13189,
+    "sha256": "ade49d64c0e42f7e67fdd7b0ed1c06c3126c048a964271358835a43f663b6384"
+  },
+  {
+    "path": "components/InspirationGrid.tsx",
+    "size": 3884,
+    "sha256": "24294c93023fb072f80bb8bb14c01f92a0e65bfafaefcc5f040959cf1a4bd919"
+  },
+  {
+    "path": "components/IntegrationsManager.tsx",
+    "size": 4720,
+    "sha256": "c52828f1ecbb600d05d29dafed45bab7f5de59482e57e25a639c1915a991032c"
+  },
+  {
+    "path": "components/IntegrationsShowcase.tsx",
+    "size": 3060,
+    "sha256": "f48cb32383fbffb1b104325c0ec196da7aec2b685315299b07c8d5f906641a7e"
+  },
+  {
+    "path": "components/LandingPage.tsx",
+    "size": 14534,
+    "sha256": "a84c8b0af8cb03eb4cee3ecdd959a864792efba8a3b500ac57f51c875d0219ec"
+  },
+  {
+    "path": "components/LanguageSwitcher.tsx",
+    "size": 1007,
+    "sha256": "edebdee1d21f20fb96167a9f2c7e472998fa620b4973744cf73cdeab1384e611"
+  },
+  {
+    "path": "components/LeftoverIdeaCard.tsx",
+    "size": 1908,
+    "sha256": "81af9710422e94fb7ea9a24bc8672b1ffa86657ce704243c9023e75b5ccfd476"
+  },
+  {
+    "path": "components/LeftoversManager.tsx",
+    "size": 8689,
+    "sha256": "3b2f929220a66af6cef1d3ca43c70151e12210a075d797fd240921b2b941bdca"
+  },
+  {
+    "path": "components/Loader.tsx",
+    "size": 472,
+    "sha256": "f243181d0653ff51134a24d104348ddd32be1021de9736bf16aa9bc6f716e47c"
+  },
+  {
+    "path": "components/MarkAsCookedModal.tsx",
+    "size": 7659,
+    "sha256": "37f1772fb2fa692b1ee242a75c7e49474df5539ca94acae4eeb6c9a77b3205c8"
+  },
+  {
+    "path": "components/MealPlannerPage.tsx",
+    "size": 7036,
+    "sha256": "51f304f1ad044b7451d698519ec24a3cf36f5aabce545020c904bdd8cc4a7803"
+  },
+  {
+    "path": "components/Onboarding.tsx",
+    "size": 5638,
+    "sha256": "d4866f31c38bfecf18b2e787ffd5520880ef45ea09fd863be3a29fe42b97ba7f"
+  },
+  {
+    "path": "components/PreferencesForm.tsx",
+    "size": 9592,
+    "sha256": "6df4f5c0edec2238305f6011268ed20f60a84a6ad2707e4c14016e098b6ea566"
+  },
+  {
+    "path": "components/ProfilePage.tsx",
+    "size": 38601,
+    "sha256": "cf8cfee857e963e48c8dd1a188fdcc9a95e56bb1e26271fa9f36984a7cc964c4"
+  },
+  {
+    "path": "components/RecipeDetailPage.tsx",
+    "size": 16151,
+    "sha256": "4ede51712349bb849f4c71cb7ed9ed79faea4bc69d4ef72109d9cf06bae665ee"
+  },
+  {
+    "path": "components/RecipeDisplay.tsx",
+    "size": 21178,
+    "sha256": "8d819fa6a1bb443ced1d469335d1550631207106a37aeaa04ddcd24214902113"
+  },
+  {
+    "path": "components/SavedRecipesModal.tsx",
+    "size": 4279,
+    "sha256": "e35a2062cb9340259ba54128d0c51d1f2d5b96e3e3e09bbc4cf5c2cf1d548edf"
+  },
+  {
+    "path": "components/ScanFridgeModal.tsx",
+    "size": 11796,
+    "sha256": "e956ca65be023a15b7f69df74a583710447229121d012bd728106150940c563f"
+  },
+  {
+    "path": "components/ScanReceiptModal.tsx",
+    "size": 24969,
+    "sha256": "b3478e0652cb49288a11f00493543b8412f9e0a731628b833096eba28c8f0148"
+  },
+  {
+    "path": "components/ShareModal.tsx",
+    "size": 5184,
+    "sha256": "a116d767b37aef24a50f760e3ed1f1b459db7131080452e7d91481b5c04bfa8e"
+  },
+  {
+    "path": "components/ShoppingListModal.tsx",
+    "size": 11994,
+    "sha256": "c96c372110e2fed9e074b3b71317f7a657ce753ccceed3c9e082bfdd8be8d3ed"
+  },
+  {
+    "path": "components/SmartTip.tsx",
+    "size": 2098,
+    "sha256": "71a8971b6c146db7f7498ab02c10156ac7c9a99ba81ea00227f6bede0ebc3c62"
+  },
+  {
+    "path": "components/TestReport.tsx",
+    "size": 6455,
+    "sha256": "264a771a61d3a482bb21dbd46e8f0811606e5fb01fc39c02ac0b514489425514"
+  },
+  {
+    "path": "components/Toast.tsx",
+    "size": 3385,
+    "sha256": "8556702f7ac3901e4eecd4c74943ec57d5e4c4d361f93aa239e185cab69a901d"
+  },
+  {
+    "path": "components/UpgradeModal.tsx",
+    "size": 2614,
+    "sha256": "366028b8e0ff2fe673962e2e7703ca7556df0e34d2f7e41260e0fd4e6855e1c9"
+  },
+  {
+    "path": "components/VoiceCommandsGuide.tsx",
+    "size": 3587,
+    "sha256": "c32869bc8e544faace13c3df33e9d3ecc6fa26a40afddb368b11c268d314f12d"
+  },
+  {
+    "path": "components/Welcome.tsx",
+    "size": 4182,
+    "sha256": "bc02870147024b2387879f57b130acff828495b1054acc77531d8ba3b8f8ea48"
+  },
+  {
+    "path": "components/common/Modal.tsx",
+    "size": 2963,
+    "sha256": "c30450e61ca567ebd3fc15db19b1470ce7b4146b0441bbd01cee91ee8f3a3f4f"
+  },
+  {
+    "path": "contexts/AppContext.tsx",
+    "size": 28174,
+    "sha256": "c79d6c2965206739e4cdb1d0a95a6fab84f35366d5e874253bb4d5d556a11221"
+  },
+  {
+    "path": "contexts/ToastContext.tsx",
+    "size": 1235,
+    "sha256": "c5c88b7239222d07e90eae273e4ba8141ea81a9400773a17fcd1fde7450b5e9e"
+  },
+  {
+    "path": "data/challenges.ts",
+    "size": 830,
+    "sha256": "eb6bb4833b934fdb575c423e961eda926ce868dbdd8556f9891e9d9de04754be"
+  },
+  {
+    "path": "data/preBuiltRecipes.ts",
+    "size": 10085,
+    "sha256": "0f6798324f48ad1169c2d5b036f136a34a61ab1886a328eab8e00c5197668721"
+  },
+  {
+    "path": "handoff/CLAUDE_HANDOFF.md",
+    "size": 16856,
+    "sha256": "6d2e1f807c43c68324101f213fb3cb9a0d6e4f32288c600afde2891bbd0bc39a"
+  },
+  {
+    "path": "handoff/MANIFEST.json",
+    "size": 10318,
+    "sha256": "939ad084e804569b3c457bd19e94992687ea28b77baf5faa320fe92ea9aca0d6"
+  },
+  {
+    "path": "hooks/useSousChef.ts",
+    "size": 10388,
+    "sha256": "a500531bde27a33de892d950a6676ea155921dc5e8518b08c619621d6aa9cca7"
+  },
+  {
+    "path": "index.html",
+    "size": 3830,
+    "sha256": "d1cb6072499a6ae7f9c2aeafe329d208a2d98b2ce0ca75429fe13412f5d4e612"
+  },
+  {
+    "path": "index.tsx",
+    "size": 663,
+    "sha256": "37b1819c4c8099044595a2117ccbe777d6bd881cde25f62d634396e01715a7e5"
+  },
+  {
+    "path": "metadata.json",
+    "size": 404,
+    "sha256": "992a0fcffa96ec206db470d0f5ccca19516878e18b478092c83b363662682e5f"
+  },
+  {
+    "path": "package-lock.json",
+    "size": 146671,
+    "sha256": "88f014a0e32e201f62ac9ebf6756dc81acbe09573fe1d49a4fe8be777da58152"
+  },
+  {
+    "path": "package.json",
+    "size": 793,
+    "sha256": "68aa7fa6a1b7724ff4ddde8792803b37d6bad570060a88ddfd9e7ed89db91da9"
+  },
+  {
+    "path": "server.ts",
+    "size": 21129,
+    "sha256": "4d7c740c66b1aa96dea1e619ba327417c699a632a1e7acb5125b1f6d1b33a9b1"
+  },
+  {
+    "path": "services/achievementsService.ts",
+    "size": 4195,
+    "sha256": "4dcc5e9b24fe5131da18e8929c952b8e88e079b043fcad08e0d93f3b26e5f867"
+  },
+  {
+    "path": "services/analyticsService.ts",
+    "size": 969,
+    "sha256": "460e19526a5bc9ffc8241f315765abe614141f31b79af830e49ab88d33690fdb"
+  },
+  {
+    "path": "services/geminiService.ts",
+    "size": 4998,
+    "sha256": "70476f005142357d4f64255a6a0c3afad9a1183c11b07db44de6b8fe10aa6493"
+  },
+  {
+    "path": "services/mealPlanService.ts",
+    "size": 1566,
+    "sha256": "3108f5568d6cede08e3a165673d202fcfd0b10b8ce88402dbf473a0cc37bcb42"
+  },
+  {
+    "path": "services/recipeCache.ts",
+    "size": 1007,
+    "sha256": "ba2f3978429b298c78e6d975dcb8a7309b8964593cc5070d967622f33345bcbd"
+  },
+  {
+    "path": "services/storageService.ts",
+    "size": 2043,
+    "sha256": "19d748f9307677030d008917c5b3927129ce9f8ce4ccc3f1a8fe9e2a6a06c050"
+  },
+  {
+    "path": "services/systemTests.ts",
+    "size": 3876,
+    "sha256": "09c81aab6ff57c4c802858a9d192b5d782c5b8016f0e92240df78990e4ac9ff8"
+  },
+  {
+    "path": "services/webVitals.ts",
+    "size": 557,
+    "sha256": "08823a838a0fbb4606d17e38581677ba53e17200f3ccc893c3f885fba59b3026"
+  },
+  {
+    "path": "services/youChefApi.ts",
+    "size": 3317,
+    "sha256": "2ccb80531770a992044e6e14a38f7d5d5d6e4a95d1589b24812d3787f16d31a0"
+  },
+  {
+    "path": "tsconfig.json",
+    "size": 542,
+    "sha256": "8641deb29adfd1958488d1951f0d5ddf3013f498aa67ce0f621e347f0ef608d2"
+  },
+  {
+    "path": "types.ts",
+    "size": 4950,
+    "sha256": "5f11bce6970a1c30e65823b9724f38d9dd3feed0a26a1c948eb815eaefcc8b54"
+  },
+  {
+    "path": "utils/audioUtils.ts",
+    "size": 2024,
+    "sha256": "c4e5aff28bf3bbdca23c2a28d250964c036bdc5198305b534f5a014a98c83ae7"
+  },
+  {
+    "path": "utils/imageUtils.ts",
+    "size": 2573,
+    "sha256": "2fd8b91efa11cd790c722244753942fc412e9d53a3d144bf816273cf58e02ad9"
+  },
+  {
+    "path": "utils/testRunner.ts",
+    "size": 708,
+    "sha256": "d50b441ab31f592de78289f2dcbb9fb1f0e6a0644688c0f2abf0a8335b923aee"
+  },
+  {
+    "path": "utils/translations.ts",
+    "size": 2837,
+    "sha256": "f96f9fcd008dd86d6c1cffc73182c9db8222b2b7cdb1721ca8b9681cb0832e8f"
+  },
+  {
+    "path": "vite.config.ts",
+    "size": 580,
+    "sha256": "63e5a78aeea5894837a62ad0b90869c602bad713f93ae44e61c436a7b7689a19"
+  }
+]
